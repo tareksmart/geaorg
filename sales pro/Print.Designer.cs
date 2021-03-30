@@ -1,0 +1,64 @@
+﻿namespace sales_pro
+{
+    partial class Print
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.SalesCRV = new CrystalDecisions.Windows.Forms.CrystalReportViewer();
+            this.SuspendLayout();
+            // 
+            // SalesCRV
+            // 
+            this.SalesCRV.ActiveViewIndex = -1;
+            this.SalesCRV.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.SalesCRV.Cursor = System.Windows.Forms.Cursors.Default;
+            this.SalesCRV.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.SalesCRV.Location = new System.Drawing.Point(0, 0);
+            this.SalesCRV.Name = "SalesCRV";
+            this.SalesCRV.ReuseParameterValuesOnRefresh = true;
+            this.SalesCRV.Size = new System.Drawing.Size(1172, 579);
+            this.SalesCRV.TabIndex = 1;
+            this.SalesCRV.ToolPanelView = CrystalDecisions.Windows.Forms.ToolPanelViewType.None;
+            // 
+            // Print
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(1172, 579);
+            this.Controls.Add(this.SalesCRV);
+            this.Name = "Print";
+            this.Text = "Print";
+            this.Load += new System.EventHandler(this.Print_Load);
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        public CrystalDecisions.Windows.Forms.CrystalReportViewer SalesCRV;
+    }
+}

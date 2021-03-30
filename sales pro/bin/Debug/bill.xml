@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dtb" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dtb">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="XML_F52E2B61-18A1-11d1-B105-00805F49916B" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dtb>
+    <XML_F52E2B61-18A1-11d1-B105-00805F49916B>&lt;Bill&gt;&lt;BillId&gt;&lt;BillId&gt;150&lt;/BillId&gt;&lt;BillType&gt;SEL       &lt;/BillType&gt;&lt;BillPaperNo&gt;0&lt;/BillPaperNo&gt;&lt;BillDate&gt;2016-12-15&lt;/BillDate&gt;&lt;AgentId&gt;0&lt;/AgentId&gt;&lt;BillTotal&gt;3.0000000e+001&lt;/BillTotal&gt;&lt;BillNote&gt;&lt;/BillNote&gt;&lt;s_or_c&gt;s         &lt;/s_or_c&gt;&lt;partener_id&gt;2&lt;/partener_id&gt;&lt;owner_name&gt;نقدى&lt;/owner_name&gt;&lt;/BillId&gt;&lt;/Bill&gt;</XML_F52E2B61-18A1-11d1-B105-00805F49916B>
+  </dtb>
+</NewDataSet>

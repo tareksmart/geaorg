@@ -1,0 +1,1363 @@
+M:\new pro application\sales pro\sales pro\bin\Debug\sales pro.exe
+M:\new pro application\sales pro\sales pro\bin\Debug\sales pro.pdb
+M:\new pro application\sales pro\sales pro\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+M:\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+M:\new pro application\sales pro\sales pro\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\new pro application\sales pro\sales pro\obj\x86\Debug\GenerateResource.write.1.tlog
+M:\new pro application\sales pro\sales pro\obj\x86\Debug\sales pro.exe
+M:\new pro application\sales pro\sales pro\obj\x86\Debug\sales pro.pdb
+M:\new pro application\sales pro\sales pro\bin\Debug\sales pro.exe.config
+M:\new pro application\sales pro\sales pro\bin\Debug\DevComponents.DotNetBar2.dll
+M:\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+E:\new pro application\sales pro\sales pro\bin\Debug\sales pro.exe.config
+E:\new pro application\sales pro\sales pro\obj\x86\Debug\sales pro.exe
+E:\new pro application\sales pro\sales pro\obj\x86\Debug\sales pro.pdb
+E:\new pro application\sales pro\sales pro\bin\Debug\sales pro.exe
+E:\new pro application\sales pro\sales pro\bin\Debug\sales pro.pdb
+E:\new pro application\sales pro\sales pro\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+E:\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+E:\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+E:\new pro application\sales pro\sales pro\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\new pro application\sales pro\sales pro\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\new pro application\new pro application\sales pro\sales pro\bin\Debug\sales pro.exe.config
+E:\new pro application\new pro application\sales pro\sales pro\obj\x86\Debug\sales pro.exe
+E:\new pro application\new pro application\sales pro\sales pro\obj\x86\Debug\sales pro.pdb
+E:\new pro application\new pro application\sales pro\sales pro\bin\Debug\sales pro.exe
+E:\new pro application\new pro application\sales pro\sales pro\bin\Debug\sales pro.pdb
+E:\new pro application\new pro application\sales pro\sales pro\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\new pro application\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+E:\new pro application\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.basic_data2.resources
+E:\new pro application\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+E:\new pro application\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+E:\new pro application\new pro application\sales pro\sales pro\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\new pro application\new pro application\sales pro\sales pro\obj\x86\Debug\GenerateResource.write.1.tlog
+M:\new pro application\new pro application\sales pro\sales pro\bin\Debug\sales pro.exe.config
+M:\new pro application\new pro application\sales pro\sales pro\obj\x86\Debug\sales pro.exe
+M:\new pro application\new pro application\sales pro\sales pro\obj\x86\Debug\sales pro.pdb
+M:\new pro application\new pro application\sales pro\sales pro\bin\Debug\sales pro.exe
+M:\new pro application\new pro application\sales pro\sales pro\bin\Debug\sales pro.pdb
+M:\new pro application\new pro application\sales pro\sales pro\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\new pro application\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+M:\new pro application\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+M:\new pro application\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+M:\new pro application\new pro application\sales pro\sales pro\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\new pro application\new pro application\sales pro\sales pro\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+E:\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+M:\new pro application\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+M:\new pro application\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+M:\new pro application\sales version\new pro application30-3\sales pro\sales pro\bin\Debug\sales pro.exe.config
+M:\new pro application\sales version\new pro application30-3\sales pro\sales pro\obj\x86\Debug\sales pro.exe
+M:\new pro application\sales version\new pro application30-3\sales pro\sales pro\obj\x86\Debug\sales pro.pdb
+M:\new pro application\sales version\new pro application30-3\sales pro\sales pro\bin\Debug\sales pro.exe
+M:\new pro application\sales version\new pro application30-3\sales pro\sales pro\bin\Debug\sales pro.pdb
+M:\new pro application\sales version\new pro application30-3\sales pro\sales pro\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\new pro application\sales version\new pro application30-3\sales pro\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+M:\new pro application\sales version\new pro application30-3\sales pro\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+M:\new pro application\sales version\new pro application30-3\sales pro\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+M:\new pro application\sales version\new pro application30-3\sales pro\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+M:\new pro application\sales version\new pro application30-3\sales pro\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+M:\new pro application\sales version\new pro application30-3\sales pro\sales pro\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\new pro application\sales version\new pro application30-3\sales pro\sales pro\obj\x86\Debug\GenerateResource.write.1.tlog
+M:\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+M:\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+J:\sales pro\sales pro\bin\Debug\sales pro.exe.config
+J:\sales pro\sales pro\obj\x86\Debug\sales pro.exe
+J:\sales pro\sales pro\obj\x86\Debug\sales pro.pdb
+J:\sales pro\sales pro\bin\Debug\sales pro.exe
+J:\sales pro\sales pro\bin\Debug\sales pro.pdb
+J:\sales pro\sales pro\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\sales pro\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+J:\sales pro\sales pro\obj\x86\Debug\sales_pro.query_uc.resources
+J:\sales pro\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+J:\sales pro\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+J:\sales pro\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+J:\sales pro\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+J:\sales pro\sales pro\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\sales pro\sales pro\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\sales pro\sales pro\bin\Debug\sales pro.exe.config
+H:\sales pro\sales pro\obj\x86\Debug\sales pro.exe
+H:\sales pro\sales pro\obj\x86\Debug\sales pro.pdb
+E:\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+M:\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+M:\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+M:\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+E:\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+E:\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+E:\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+M:\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+M:\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+E:\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+E:\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+M:\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+E:\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+E:\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+M:\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+M:\new pro application\sales pro\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+M:\new pro application\moa\tarek\sales pro\sales pro\bin\Debug\sales pro.exe.config
+M:\new pro application\moa\tarek\sales pro\sales pro\obj\x86\Debug\sales pro.exe
+M:\new pro application\moa\tarek\sales pro\sales pro\obj\x86\Debug\sales pro.pdb
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\bin\Debug\sales pro.exe.config
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\obj\x86\Debug\sales pro.exe
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\obj\x86\Debug\sales pro.pdb
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\obj\x86\Debug\sales_pro.Print.resources
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\obj\x86\Debug\sales_pro.Query.resources
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\bin\Debug\sales pro.exe
+C:\Documents and Settings\ADMIN\Desktop\tarek\tarek\sales pro\sales pro\bin\Debug\sales pro.pdb
+M:\new pro application\sales pro after sum\sales pro\bin\Debug\sales pro.exe.config
+M:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales pro.exe
+M:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales pro.pdb
+M:\new pro application\sales pro after sum\sales pro\bin\Debug\sales pro.exe
+M:\new pro application\sales pro after sum\sales pro\bin\Debug\sales pro.pdb
+M:\new pro application\sales pro after sum\sales pro\bin\Debug\DevComponents.DotNetBar2.dll
+M:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+M:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+M:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+M:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+M:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+M:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+M:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+M:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+M:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+M:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Print.resources
+M:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+M:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+M:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Query.resources
+M:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+M:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+M:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+M:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+M:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+M:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+M:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+M:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+M:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+M:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+M:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+M:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+M:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\new pro application\sales after sum\sales pro after sum\sales pro\bin\Debug\sales pro.exe.config
+E:\new pro application\sales after sum\sales pro after sum\sales pro\obj\x86\Debug\sales pro.exe
+E:\new pro application\sales after sum\sales pro after sum\sales pro\obj\x86\Debug\sales pro.pdb
+E:\new pro application\sales after sum\sales pro after sum\sales pro\bin\Debug\sales pro.exe
+E:\new pro application\sales after sum\sales pro after sum\sales pro\bin\Debug\sales pro.pdb
+E:\new pro application\sales after sum\sales pro after sum\sales pro\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\new pro application\sales after sum\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+E:\new pro application\sales after sum\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+E:\new pro application\sales after sum\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+E:\new pro application\sales after sum\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+E:\new pro application\sales after sum\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+E:\new pro application\sales after sum\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+E:\new pro application\sales after sum\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+E:\new pro application\sales after sum\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+E:\new pro application\sales after sum\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+E:\new pro application\sales after sum\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Print.resources
+E:\new pro application\sales after sum\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+E:\new pro application\sales after sum\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+E:\new pro application\sales after sum\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Query.resources
+E:\new pro application\sales after sum\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+E:\new pro application\sales after sum\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+E:\new pro application\sales after sum\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+E:\new pro application\sales after sum\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+E:\new pro application\sales after sum\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+E:\new pro application\sales after sum\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+E:\new pro application\sales after sum\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+E:\new pro application\sales after sum\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+E:\new pro application\sales after sum\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+E:\new pro application\sales after sum\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+E:\new pro application\sales after sum\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+E:\new pro application\sales after sum\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+E:\new pro application\sales after sum\sales pro after sum\sales pro\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\new pro application\sales after sum\sales pro after sum\sales pro\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\new pro application\sales pro after sum\sales pro\bin\Debug\sales pro.exe.config
+E:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales pro.exe
+E:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales pro.pdb
+E:\new pro application\sales pro after sum\sales pro\bin\Debug\sales pro.exe
+E:\new pro application\sales pro after sum\sales pro\bin\Debug\sales pro.pdb
+E:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+E:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+E:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+E:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+E:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+E:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+E:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+E:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+E:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+E:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Print.resources
+E:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+E:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+E:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Query.resources
+E:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+E:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+E:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+E:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+E:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+E:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+E:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+E:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+E:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+E:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+E:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+E:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+E:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\new pro application\sales pro after sum\sales pro\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\bin\Debug\sales pro.exe.config
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\obj\x86\Debug\sales pro.exe
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\obj\x86\Debug\sales pro.pdb
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\bin\Debug\sales pro.exe
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\bin\Debug\sales pro.pdb
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Print.resources
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Query.resources
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\ADMIN\Desktop\sales pro after sum\sales pro\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\tarek pc\new pro application\sales pro after sum\sales pro\bin\Debug\sales pro.exe.config
+D:\tarek pc\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales pro.exe
+D:\tarek pc\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales pro.pdb
+D:\tarek pc\new pro application\sales pro after sum\sales pro\bin\Debug\sales pro.exe
+D:\tarek pc\new pro application\sales pro after sum\sales pro\bin\Debug\sales pro.pdb
+D:\tarek pc\new pro application\sales pro after sum\sales pro\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\tarek pc\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+D:\tarek pc\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+D:\tarek pc\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+D:\tarek pc\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+D:\tarek pc\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+D:\tarek pc\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+D:\tarek pc\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+D:\tarek pc\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+D:\tarek pc\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+D:\tarek pc\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Print.resources
+D:\tarek pc\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+D:\tarek pc\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+D:\tarek pc\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Query.resources
+D:\tarek pc\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+D:\tarek pc\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+D:\tarek pc\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+D:\tarek pc\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+D:\tarek pc\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+D:\tarek pc\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+D:\tarek pc\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+D:\tarek pc\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+D:\tarek pc\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+D:\tarek pc\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+D:\tarek pc\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+D:\tarek pc\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+D:\tarek pc\new pro application\sales pro after sum\sales pro\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\tarek pc\new pro application\sales pro after sum\sales pro\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\bin\Debug\sales pro.exe.config
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales pro.exe
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales pro.pdb
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\bin\Debug\sales pro.exe
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\bin\Debug\sales pro.pdb
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Print.resources
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Query.resources
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ag_acc_frm.resources
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Discount_agent.resources
+D:\CSharp Projects\new pro application\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.report2_form.resources
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\bin\Debug\sales pro.exe.config
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales pro.exe
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales pro.pdb
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\bin\Debug\sales pro.exe
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\bin\Debug\sales pro.pdb
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ag_acc_frm.resources
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Discount_agent.resources
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Print.resources
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Query.resources
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.report2_form.resources
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales pro.csproj.GenerateResource.Cache
+M:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales pro.csprojResolveAssemblyReference.cache
+F:\projects\محمد حسين\sales pro after sum\sales pro\bin\Debug\sales pro.exe.config
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales pro.exe
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales pro.pdb
+F:\projects\محمد حسين\sales pro after sum\sales pro\bin\Debug\sales pro.exe
+F:\projects\محمد حسين\sales pro after sum\sales pro\bin\Debug\sales pro.pdb
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ag_acc_frm.resources
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Discount_agent.resources
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Print.resources
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Query.resources
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.report2_form.resources
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\GenerateResource.write.1.tlog
+M:\محمد حسين\sales pro after sum\sales pro\bin\Debug\sales pro.exe.config
+M:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales pro.exe
+M:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales pro.pdb
+M:\محمد حسين\sales pro after sum\sales pro\bin\Debug\sales pro.exe
+M:\محمد حسين\sales pro after sum\sales pro\bin\Debug\sales pro.pdb
+M:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+M:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ag_acc_frm.resources
+M:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+M:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+M:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+M:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+M:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Discount_agent.resources
+M:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+M:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+M:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+M:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+M:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Print.resources
+M:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+M:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+M:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Query.resources
+M:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+M:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.report2_form.resources
+M:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+M:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+M:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+M:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+M:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+M:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+M:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+M:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+M:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+M:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+M:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+M:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales pro.csproj.GenerateResource.Cache
+C:\Users\Tarek\Desktop\محمد حسين\sales pro after sum\sales pro\bin\Debug\sales pro.exe.config
+C:\Users\Tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales pro.exe
+C:\Users\Tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales pro.pdb
+G:\محمد حسين\sales pro after sum\sales pro\bin\Debug\sales pro.exe.config
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales pro.exe
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales pro.pdb
+G:\محمد حسين\sales pro after sum\sales pro\bin\Debug\sales pro.exe
+G:\محمد حسين\sales pro after sum\sales pro\bin\Debug\sales pro.pdb
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ag_acc_frm.resources
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Discount_agent.resources
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Print.resources
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Query.resources
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.report2_form.resources
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\bin\Debug\sales pro.exe.config
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales pro.exe
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales pro.pdb
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\bin\Debug\sales pro.exe
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\bin\Debug\sales pro.pdb
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ag_acc_frm.resources
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Discount_agent.resources
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Print.resources
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Query.resources
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.report2_form.resources
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\projects\محمد حسين\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\bin\Debug\sales pro.exe.config
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales pro.exe
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales pro.pdb
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\bin\Debug\sales pro.exe
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\bin\Debug\sales pro.pdb
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ag_acc_frm.resources
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Discount_agent.resources
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Print.resources
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Query.resources
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.report2_form.resources
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\bin\Debug\sales pro.exe
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\bin\Debug\sales pro.pdb
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.add_item.resources
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ag_acc_frm.resources
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Discount_agent.resources
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Print.resources
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Query.resources
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.report2_form.resources
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\tarek\Desktop\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\CSharp Projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.add_item.resources
+F:\projects\محمد حسين\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.add_item.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\bin\Debug\sales pro.exe.config
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales pro.exe
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales pro.pdb
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\bin\Debug\sales pro.exe
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\bin\Debug\sales pro.pdb
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.add_item.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ag_acc_frm.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.company_us_co.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Discount_agent.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Print.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Query.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.report2_form.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.update_expire_date_form.resources
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\bin\Debug\sales pro.exe.config
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales pro.exe
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales pro.pdb
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\bin\Debug\sales pro.exe
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\bin\Debug\sales pro.pdb
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.add_item.resources
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ag_acc_frm.resources
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.company_us_co.resources
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Discount_agent.resources
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Print.resources
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Query.resources
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.report2_form.resources
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.update_expire_date_form.resources
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+M:\CSharp Projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales pro.csproj.GenerateResource.Cache
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.expir_query_frm.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.wait_frm.resources
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.finish_exp_date_frm.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\bin\Debug\sales pro.exe.config
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales pro.exe
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales pro.pdb
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\bin\Debug\sales pro.exe
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\bin\Debug\sales pro.pdb
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.add_item.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ag_acc_frm.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.company_us_co.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Discount_agent.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.expir_query_frm.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.finish_exp_date_frm.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Print.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Query.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.report2_form.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.update_expire_date_form.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.wait_frm.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+M:\CSharp Projects\جورج\sales pro after sum\sales pro\obj\x86\Debug\sales pro.csproj.GenerateResource.Cache
+F:\projects\جورج ماكياج\sales pro after sum\sales pro\obj\x86\Debug\sales_pro.expire_warn.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\bin\Debug\sales pro.exe.config
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.exe
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.pdb
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\bin\Debug\sales pro.exe
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\bin\Debug\sales pro.pdb
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.add_item.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ag_acc_frm.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.company_us_co.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Discount_agent.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.expire_warn.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.expir_query_frm.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.finish_exp_date_frm.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Print.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Query.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.report2_form.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.update_expire_date_form.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.wait_frm.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CSharp Projects\sales pro after sum geo\sales pro after sum geo\sales pro\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\bin\Debug\sales pro.exe.config
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.exe
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.pdb
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.add_item.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ag_acc_frm.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.company_us_co.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Discount_agent.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.expire_warn.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.expir_query_frm.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.finish_exp_date_frm.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Print.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Query.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.report2_form.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.update_expire_date_form.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.wait_frm.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\bin\Debug\sales pro.exe
+F:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\bin\Debug\sales pro.pdb
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\bin\Debug\sales pro.exe.config
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.exe
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.pdb
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\bin\Debug\sales pro.exe
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\bin\Debug\sales pro.pdb
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.add_item.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ag_acc_frm.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.company_us_co.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Discount_agent.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.expire_warn.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.expir_query_frm.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.finish_exp_date_frm.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Print.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Query.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.report2_form.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.update_expire_date_form.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.wait_frm.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\projects\جورج ماكياج\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\bin\Debug\sales pro.exe.config
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.exe
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.pdb
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\bin\Debug\sales pro.exe
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\bin\Debug\sales pro.pdb
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.add_item.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ag_acc_frm.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.company_us_co.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Discount_agent.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.expire_warn.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.expir_query_frm.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.finish_exp_date_frm.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Print.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Query.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.report2_form.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.update_expire_date_form.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.wait_frm.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CSharp Projects\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\bin\Debug\sales pro.exe.config
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.exe
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.pdb
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\bin\Debug\sales pro.exe
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\bin\Debug\sales pro.pdb
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.add_item.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ag_acc_frm.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.company_us_co.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Discount_agent.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.expire_warn.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.expir_query_frm.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.finish_exp_date_frm.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Print.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Query.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.report2_form.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.update_expire_date_form.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.wait_frm.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\projects\جورج ماكياج\geo from lap\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\bin\Debug\sales pro.exe.config
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.exe
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.pdb
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\bin\Debug\sales pro.exe
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\bin\Debug\sales pro.pdb
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.add_item.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ag_acc_frm.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.company_us_co.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Discount_agent.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.expire_warn.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.expir_query_frm.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.finish_exp_date_frm.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Print.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Query.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.report2_form.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.update_expire_date_form.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.wait_frm.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tarek\Desktop\geo from lap\sales pro after sum geo\sales pro\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\bin\Debug\sales pro.exe.config
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.exe
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.pdb
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\bin\Debug\sales pro.exe
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\bin\Debug\sales pro.pdb
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.add_item.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ag_acc_frm.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.company_us_co.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Discount_agent.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.expire_warn.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.expir_query_frm.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.finish_exp_date_frm.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Print.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Query.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.report2_form.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.update_expire_date_form.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.wait_frm.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.csprojResolveAssemblyReference.cache
+G:\projects\جورج ماكياج\geo from lap يبيع حتى لو الصنف خلص\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.csproj.GenerateResource.Cache
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\bin\Debug\sales pro.exe.config
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.exe
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.pdb
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.add_item.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ag_acc_frm.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.company_us_co.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Discount_agent.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.expire_warn.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.expir_query_frm.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.finish_exp_date_frm.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Print.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Query.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.query_stuck_bill_form.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.report2_form.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.update_expire_date_form.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.wait_frm.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\bin\Debug\sales pro.exe
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\bin\Debug\sales pro.pdb
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\bin\Debug\sales pro.exe.config
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.exe
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.pdb
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\bin\Debug\sales pro.exe
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\bin\Debug\sales pro.pdb
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.csprojResolveAssemblyReference.cache
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.add_item.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ag_acc_frm.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.company_us_co.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Discount_agent.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.expire_warn.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.expir_query_frm.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.finish_exp_date_frm.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Print.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Query.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.query_stuck_bill_form.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.report2_form.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.update_expire_date_form.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.wait_frm.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.csproj.GenerateResource.Cache
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CSharp Projects\جو فاتورة معلقة\sales pro after sum geo\sales pro\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\bin\Debug\sales pro.exe.config
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.exe
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.pdb
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\bin\Debug\sales pro.exe
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\bin\Debug\sales pro.pdb
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.csprojResolveAssemblyReference.cache
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.add_item.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ag_acc_frm.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.company_us_co.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Discount_agent.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.expire_warn.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.expir_query_frm.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.finish_exp_date_frm.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Print.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Query.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.query_stuck_bill_form.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.report2_form.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.update_expire_date_form.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.wait_frm.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+G:\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.csproj.GenerateResource.Cache
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\bin\Debug\sales pro.exe.config
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.exe
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.pdb
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\bin\Debug\sales pro.exe
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\bin\Debug\sales pro.pdb
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.add_item.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ag_acc_frm.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.company_us_co.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Discount_agent.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.expire_warn.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.expir_query_frm.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.finish_exp_date_frm.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Print.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Query.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.query_stuck_bill_form.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.report2_form.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.update_expire_date_form.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.wait_frm.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\projects\جورج ماكياج\جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\bin\Debug\sales pro.exe.config
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.exe
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.pdb
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\bin\Debug\sales pro.exe
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\bin\Debug\sales pro.pdb
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.add_item.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ag_acc_frm.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.company_us_co.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Discount_agent.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.expire_warn.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.expir_query_frm.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.finish_exp_date_frm.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Print.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Query.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.query_stuck_bill_form.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.report2_form.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.update_expire_date_form.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.wait_frm.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.csprojResolveAssemblyReference.cache
+D:\Projects\projects\جورج ماكياج\الاصلى جو فاتورة معلقة - بالشريك\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.csproj.GenerateResource.Cache
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\bin\Debug\sales pro.exe.config
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.exe
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.pdb
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\bin\Debug\sales pro.exe
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\bin\Debug\sales pro.pdb
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.csprojResolveAssemblyReference.cache
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.add_item.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ag_acc_frm.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.company_us_co.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Discount_agent.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.expire_warn.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.expir_query_frm.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.finish_exp_date_frm.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Print.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Query.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.query_stuck_bill_form.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.report2_form.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.update_expire_date_form.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.wait_frm.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+D:\Projects\projects\جورج ماكياج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.csproj.GenerateResource.Cache
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\bin\Debug\sales pro.exe.config
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.exe
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.pdb
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\bin\Debug\sales pro.exe
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\bin\Debug\sales pro.pdb
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.csprojResolveAssemblyReference.cache
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.add_item.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ag_acc_frm.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.company_us_co.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Discount_agent.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.expire_warn.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.expir_query_frm.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.finish_exp_date_frm.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Print.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Query.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.query_stuck_bill_form.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.report2_form.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.update_expire_date_form.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.wait_frm.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.csproj.GenerateResource.Cache
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\bin\Debug\sales pro.exe.config
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.exe
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.pdb
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.addStoreForm.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.add_item.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ag_acc_frm.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.company_us_co.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Discount_agent.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.expire_warn.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.expir_query_frm.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.finish_exp_date_frm.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Print.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Query.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.query_stuck_bill_form.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.report2_form.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.storeForm.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.update_expire_date_form.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.wait_frm.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.csproj.GenerateResource.Cache
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\bin\Debug\sales pro.exe
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\bin\Debug\sales pro.pdb
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.addStoreForm.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.storeForm.resources
+E:\D\Projects\جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.StoreReqQuery.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales_pro.StoreReqQuery.resources
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج\sales pro after sum geo\sales pro\obj\x86\Debug\sales pro.csprojResolveAssemblyReference.cache
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\geoGit\sales pro\bin\Debug\sales pro.exe.config
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\geoGit\sales pro\obj\x86\Debug\sales pro.exe
+D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\geoGit\sales pro\obj\x86\Debug\sales pro.pdb

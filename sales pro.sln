@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sales pro", "sales pro\sales pro.csproj", "{290B99FA-42E0-42BB-9226-CA072DF50146}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "sales pro install", "sales pro install\sales pro install.vdproj", "{4DC331AC-E058-4968-A9B2-BEA9DD0C3E3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{290B99FA-42E0-42BB-9226-CA072DF50146}.Debug|x86.ActiveCfg = Debug|x86
+		{290B99FA-42E0-42BB-9226-CA072DF50146}.Debug|x86.Build.0 = Debug|x86
+		{290B99FA-42E0-42BB-9226-CA072DF50146}.Release|x86.ActiveCfg = Release|x86
+		{290B99FA-42E0-42BB-9226-CA072DF50146}.Release|x86.Build.0 = Release|x86
+		{4DC331AC-E058-4968-A9B2-BEA9DD0C3E3C}.Debug|x86.ActiveCfg = Debug
+		{4DC331AC-E058-4968-A9B2-BEA9DD0C3E3C}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
