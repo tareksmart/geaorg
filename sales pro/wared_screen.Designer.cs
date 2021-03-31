@@ -28,10 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(wared_screen_form));
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
             this.groupPanel1 = new DevComponents.DotNetBar.Controls.GroupPanel();
             this.bill_w_id_bx = new System.Windows.Forms.TextBox();
             this.wared_fat_code_bx = new System.Windows.Forms.TextBox();
@@ -43,9 +43,7 @@
             this.wared_morr_nam_cmbx = new System.Windows.Forms.ComboBox();
             this.wared_fat_date = new System.Windows.Forms.DateTimePicker();
             this.groupPanel2 = new DevComponents.DotNetBar.Controls.GroupPanel();
-            this.exit_btn = new DevComponents.DotNetBar.ButtonX();
-            this.expire_date_chkbx = new System.Windows.Forms.CheckBox();
-            this.w_it_expir_date = new System.Windows.Forms.DateTimePicker();
+            this.querBtn = new DevComponents.DotNetBar.ButtonX();
             this.expandablePanel1 = new DevComponents.DotNetBar.ExpandablePanel();
             this.groupPanel3 = new DevComponents.DotNetBar.Controls.GroupPanel();
             this.w_quer_end_date = new System.Windows.Forms.DateTimePicker();
@@ -59,26 +57,39 @@
             this.w_quer_grid = new DevComponents.DotNetBar.Controls.DataGridViewX();
             this.wared_quer_fat_code_bx = new System.Windows.Forms.TextBox();
             this.label11 = new System.Windows.Forms.Label();
+            this.groupPanel4 = new DevComponents.DotNetBar.Controls.GroupPanel();
+            this.label15 = new System.Windows.Forms.Label();
+            this.wared_purch_pric_bx = new System.Windows.Forms.TextBox();
+            this.expire_date_chkbx = new System.Windows.Forms.CheckBox();
+            this.label8 = new System.Windows.Forms.Label();
+            this.w_it_expir_date = new System.Windows.Forms.DateTimePicker();
+            this.wared_kemia_bx = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
             this.add_item_btn = new DevComponents.DotNetBar.ButtonX();
+            this.wared_total_sanf_pric_bx = new System.Windows.Forms.TextBox();
             this.w_sanf_q_code_bx = new System.Windows.Forms.TextBox();
+            this.label7 = new System.Windows.Forms.Label();
             this.label18 = new System.Windows.Forms.Label();
+            this.wared_new_sanf_btn = new DevComponents.DotNetBar.ButtonX();
             this.warn_lim_num = new System.Windows.Forms.NumericUpDown();
+            this.wared_up_sanf_btn = new DevComponents.DotNetBar.ButtonX();
             this.label17 = new System.Windows.Forms.Label();
+            this.wared_del_sanf_btn = new DevComponents.DotNetBar.ButtonX();
+            this.wared_last_ag_pric_bx = new System.Windows.Forms.TextBox();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label13 = new System.Windows.Forms.Label();
+            this.wared_tasn_nam_cmbx = new DevComponents.DotNetBar.Controls.ComboBoxEx();
+            this.wared_cleint_pric_bx = new System.Windows.Forms.TextBox();
+            this.label14 = new System.Windows.Forms.Label();
+            this.wared_sanf_nam_cmbx = new DevComponents.DotNetBar.Controls.ComboBoxEx();
+            this.label3 = new System.Windows.Forms.Label();
+            this.wared_sanf_code_bx = new System.Windows.Forms.TextBox();
+            this.exit_btn = new DevComponents.DotNetBar.ButtonX();
             this.ref_num_exp = new DevComponents.DotNetBar.ExpandablePanel();
             this.ref_cancel_btn = new DevComponents.DotNetBar.ButtonX();
             this.ref_save_btn = new DevComponents.DotNetBar.ButtonX();
             this.label16 = new System.Windows.Forms.Label();
             this.ref_num_bx = new System.Windows.Forms.TextBox();
-            this.label5 = new System.Windows.Forms.Label();
-            this.wared_tasn_nam_cmbx = new DevComponents.DotNetBar.Controls.ComboBoxEx();
-            this.label15 = new System.Windows.Forms.Label();
-            this.wared_sanf_nam_cmbx = new DevComponents.DotNetBar.Controls.ComboBoxEx();
-            this.wared_sanf_code_bx = new System.Windows.Forms.TextBox();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label14 = new System.Windows.Forms.Label();
-            this.wared_cleint_pric_bx = new System.Windows.Forms.TextBox();
-            this.label13 = new System.Windows.Forms.Label();
-            this.wared_last_ag_pric_bx = new System.Windows.Forms.TextBox();
             this.label10 = new System.Windows.Forms.Label();
             this.wared_total_bx = new System.Windows.Forms.TextBox();
             this.wared_clear_btn = new DevComponents.DotNetBar.ButtonX();
@@ -95,27 +106,17 @@
             this.Column6 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column9 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column10 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.wared_del_sanf_btn = new DevComponents.DotNetBar.ButtonX();
-            this.wared_up_sanf_btn = new DevComponents.DotNetBar.ButtonX();
-            this.wared_new_sanf_btn = new DevComponents.DotNetBar.ButtonX();
-            this.label7 = new System.Windows.Forms.Label();
-            this.wared_total_sanf_pric_bx = new System.Windows.Forms.TextBox();
-            this.label6 = new System.Windows.Forms.Label();
-            this.wared_kemia_bx = new System.Windows.Forms.TextBox();
-            this.label8 = new System.Windows.Forms.Label();
-            this.wared_purch_pric_bx = new System.Windows.Forms.TextBox();
             this.buttonItem1 = new DevComponents.DotNetBar.ButtonItem();
-            this.groupPanel4 = new DevComponents.DotNetBar.Controls.GroupPanel();
-            this.querBtn = new DevComponents.DotNetBar.ButtonX();
+            this.buttonX1 = new DevComponents.DotNetBar.ButtonX();
             this.groupPanel1.SuspendLayout();
             this.groupPanel2.SuspendLayout();
             this.expandablePanel1.SuspendLayout();
             this.groupPanel3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.w_quer_grid)).BeginInit();
+            this.groupPanel4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.warn_lim_num)).BeginInit();
             this.ref_num_exp.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.wared_grid)).BeginInit();
-            this.groupPanel4.SuspendLayout();
             this.SuspendLayout();
             // 
             // groupPanel1
@@ -335,51 +336,16 @@
             this.groupPanel2.Text = "اصناف الفاتورة";
             this.groupPanel2.MouseMove += new System.Windows.Forms.MouseEventHandler(this.groupPanel2_MouseMove);
             // 
-            // exit_btn
+            // querBtn
             // 
-            this.exit_btn.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton;
-            this.exit_btn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.exit_btn.BackColor = System.Drawing.Color.LightBlue;
-            this.exit_btn.ColorTable = DevComponents.DotNetBar.eButtonColor.OrangeWithBackground;
-            this.exit_btn.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.exit_btn.Image = ((System.Drawing.Image)(resources.GetObject("exit_btn.Image")));
-            this.exit_btn.ImageFixedSize = new System.Drawing.Size(50, 50);
-            this.exit_btn.Location = new System.Drawing.Point(0, 563);
-            this.exit_btn.Name = "exit_btn";
-            this.exit_btn.Shape = new DevComponents.DotNetBar.RoundRectangleShapeDescriptor(10);
-            this.exit_btn.Size = new System.Drawing.Size(48, 47);
-            this.exit_btn.TabIndex = 94;
-            this.exit_btn.Tooltip = "خروج";
-            this.exit_btn.Click += new System.EventHandler(this.exit_btn_Click);
-            // 
-            // expire_date_chkbx
-            // 
-            this.expire_date_chkbx.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.expire_date_chkbx.AutoSize = true;
-            this.expire_date_chkbx.Checked = true;
-            this.expire_date_chkbx.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.expire_date_chkbx.Enabled = false;
-            this.expire_date_chkbx.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.expire_date_chkbx.Location = new System.Drawing.Point(1136, 94);
-            this.expire_date_chkbx.Name = "expire_date_chkbx";
-            this.expire_date_chkbx.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.expire_date_chkbx.Size = new System.Drawing.Size(110, 24);
-            this.expire_date_chkbx.TabIndex = 93;
-            this.expire_date_chkbx.Text = "صلاحيةالصنف";
-            this.expire_date_chkbx.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.expire_date_chkbx.UseVisualStyleBackColor = true;
-            // 
-            // w_it_expir_date
-            // 
-            this.w_it_expir_date.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.w_it_expir_date.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.w_it_expir_date.Format = System.Windows.Forms.DateTimePickerFormat.Short;
-            this.w_it_expir_date.Location = new System.Drawing.Point(963, 89);
-            this.w_it_expir_date.Name = "w_it_expir_date";
-            this.w_it_expir_date.ShowUpDown = true;
-            this.w_it_expir_date.Size = new System.Drawing.Size(171, 32);
-            this.w_it_expir_date.TabIndex = 92;
-            this.w_it_expir_date.Value = new System.DateTime(2016, 10, 27, 0, 0, 0, 0);
+            this.querBtn.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton;
+            this.querBtn.ColorTable = DevComponents.DotNetBar.eButtonColor.OrangeWithBackground;
+            this.querBtn.Location = new System.Drawing.Point(57, 165);
+            this.querBtn.Name = "querBtn";
+            this.querBtn.Size = new System.Drawing.Size(76, 32);
+            this.querBtn.TabIndex = 94;
+            this.querBtn.Text = "الاستعلام عن طلب مخزن";
+            this.querBtn.Click += new System.EventHandler(this.querBtn_Click);
             // 
             // expandablePanel1
             // 
@@ -481,7 +447,7 @@
             this.label19.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.label19.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label19.ForeColor = System.Drawing.Color.White;
-            this.label19.Location = new System.Drawing.Point(295, 56);
+            this.label19.Location = new System.Drawing.Point(289, 56);
             this.label19.Name = "label19";
             this.label19.Size = new System.Drawing.Size(52, 24);
             this.label19.TabIndex = 30;
@@ -502,7 +468,7 @@
             this.mor_q_name_cmbx.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.mor_q_name_cmbx.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.mor_q_name_cmbx.FormattingEnabled = true;
-            this.mor_q_name_cmbx.Location = new System.Drawing.Point(82, 55);
+            this.mor_q_name_cmbx.Location = new System.Drawing.Point(76, 55);
             this.mor_q_name_cmbx.Name = "mor_q_name_cmbx";
             this.mor_q_name_cmbx.Size = new System.Drawing.Size(205, 27);
             this.mor_q_name_cmbx.TabIndex = 29;
@@ -554,14 +520,14 @@
             this.w_quer_grid.AllowUserToDeleteRows = false;
             this.w_quer_grid.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.w_quer_grid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle6.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle6.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle6.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle6.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle6.SelectionForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.w_quer_grid.DefaultCellStyle = dataGridViewCellStyle6;
+            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.w_quer_grid.DefaultCellStyle = dataGridViewCellStyle1;
             this.w_quer_grid.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(215)))), ((int)(((byte)(229)))));
             this.w_quer_grid.Location = new System.Drawing.Point(4, 165);
             this.w_quer_grid.Name = "w_quer_grid";
@@ -600,6 +566,172 @@
             this.label11.Text = "كودالفاتورة";
             this.label11.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
+            // groupPanel4
+            // 
+            this.groupPanel4.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupPanel4.CanvasColor = System.Drawing.SystemColors.Control;
+            this.groupPanel4.ColorSchemeStyle = DevComponents.DotNetBar.eDotNetBarStyle.Office2007;
+            this.groupPanel4.Controls.Add(this.buttonX1);
+            this.groupPanel4.Controls.Add(this.label15);
+            this.groupPanel4.Controls.Add(this.wared_purch_pric_bx);
+            this.groupPanel4.Controls.Add(this.expire_date_chkbx);
+            this.groupPanel4.Controls.Add(this.label8);
+            this.groupPanel4.Controls.Add(this.w_it_expir_date);
+            this.groupPanel4.Controls.Add(this.wared_kemia_bx);
+            this.groupPanel4.Controls.Add(this.label6);
+            this.groupPanel4.Controls.Add(this.add_item_btn);
+            this.groupPanel4.Controls.Add(this.wared_total_sanf_pric_bx);
+            this.groupPanel4.Controls.Add(this.w_sanf_q_code_bx);
+            this.groupPanel4.Controls.Add(this.label7);
+            this.groupPanel4.Controls.Add(this.label18);
+            this.groupPanel4.Controls.Add(this.wared_new_sanf_btn);
+            this.groupPanel4.Controls.Add(this.warn_lim_num);
+            this.groupPanel4.Controls.Add(this.wared_up_sanf_btn);
+            this.groupPanel4.Controls.Add(this.label17);
+            this.groupPanel4.Controls.Add(this.wared_del_sanf_btn);
+            this.groupPanel4.Controls.Add(this.wared_last_ag_pric_bx);
+            this.groupPanel4.Controls.Add(this.label5);
+            this.groupPanel4.Controls.Add(this.label13);
+            this.groupPanel4.Controls.Add(this.wared_tasn_nam_cmbx);
+            this.groupPanel4.Controls.Add(this.wared_cleint_pric_bx);
+            this.groupPanel4.Controls.Add(this.label14);
+            this.groupPanel4.Controls.Add(this.wared_sanf_nam_cmbx);
+            this.groupPanel4.Controls.Add(this.label3);
+            this.groupPanel4.Controls.Add(this.wared_sanf_code_bx);
+            this.groupPanel4.Location = new System.Drawing.Point(32, 1);
+            this.groupPanel4.Name = "groupPanel4";
+            this.groupPanel4.Size = new System.Drawing.Size(1249, 143);
+            // 
+            // 
+            // 
+            this.groupPanel4.Style.BackColor2SchemePart = DevComponents.DotNetBar.eColorSchemePart.PanelBackground2;
+            this.groupPanel4.Style.BackColorGradientAngle = 90;
+            this.groupPanel4.Style.BackColorSchemePart = DevComponents.DotNetBar.eColorSchemePart.PanelBackground;
+            this.groupPanel4.Style.BorderBottom = DevComponents.DotNetBar.eStyleBorderType.Solid;
+            this.groupPanel4.Style.BorderBottomWidth = 1;
+            this.groupPanel4.Style.BorderColorSchemePart = DevComponents.DotNetBar.eColorSchemePart.PanelBorder;
+            this.groupPanel4.Style.BorderLeft = DevComponents.DotNetBar.eStyleBorderType.Solid;
+            this.groupPanel4.Style.BorderLeftWidth = 1;
+            this.groupPanel4.Style.BorderRight = DevComponents.DotNetBar.eStyleBorderType.Solid;
+            this.groupPanel4.Style.BorderRightWidth = 1;
+            this.groupPanel4.Style.BorderTop = DevComponents.DotNetBar.eStyleBorderType.Solid;
+            this.groupPanel4.Style.BorderTopWidth = 1;
+            this.groupPanel4.Style.CornerDiameter = 4;
+            this.groupPanel4.Style.CornerType = DevComponents.DotNetBar.eCornerType.Rounded;
+            this.groupPanel4.Style.TextAlignment = DevComponents.DotNetBar.eStyleTextAlignment.Center;
+            this.groupPanel4.Style.TextColorSchemePart = DevComponents.DotNetBar.eColorSchemePart.PanelText;
+            this.groupPanel4.Style.TextLineAlignment = DevComponents.DotNetBar.eStyleTextAlignment.Near;
+            this.groupPanel4.TabIndex = 95;
+            this.groupPanel4.Click += new System.EventHandler(this.groupPanel4_Click);
+            // 
+            // label15
+            // 
+            this.label15.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.label15.AutoSize = true;
+            this.label15.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.label15.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label15.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.label15.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label15.ForeColor = System.Drawing.Color.White;
+            this.label15.Location = new System.Drawing.Point(423, 11);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(82, 24);
+            this.label15.TabIndex = 42;
+            this.label15.Text = "اسم الصنف";
+            // 
+            // wared_purch_pric_bx
+            // 
+            this.wared_purch_pric_bx.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.wared_purch_pric_bx.BackColor = System.Drawing.Color.LightGoldenrodYellow;
+            this.wared_purch_pric_bx.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.wared_purch_pric_bx.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.wared_purch_pric_bx.ForeColor = System.Drawing.SystemColors.MenuText;
+            this.wared_purch_pric_bx.Location = new System.Drawing.Point(1025, 50);
+            this.wared_purch_pric_bx.MaxLength = 10;
+            this.wared_purch_pric_bx.Name = "wared_purch_pric_bx";
+            this.wared_purch_pric_bx.Size = new System.Drawing.Size(112, 33);
+            this.wared_purch_pric_bx.TabIndex = 47;
+            this.wared_purch_pric_bx.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.wared_purch_pric_bx.TextChanged += new System.EventHandler(this.wared_purch_pric_bx_TextChanged);
+            this.wared_purch_pric_bx.KeyDown += new System.Windows.Forms.KeyEventHandler(this.wared_purch_pric_bx_KeyDown_1);
+            // 
+            // expire_date_chkbx
+            // 
+            this.expire_date_chkbx.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.expire_date_chkbx.AutoSize = true;
+            this.expire_date_chkbx.Checked = true;
+            this.expire_date_chkbx.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.expire_date_chkbx.Enabled = false;
+            this.expire_date_chkbx.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.expire_date_chkbx.Location = new System.Drawing.Point(1136, 94);
+            this.expire_date_chkbx.Name = "expire_date_chkbx";
+            this.expire_date_chkbx.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.expire_date_chkbx.Size = new System.Drawing.Size(110, 24);
+            this.expire_date_chkbx.TabIndex = 93;
+            this.expire_date_chkbx.Text = "صلاحيةالصنف";
+            this.expire_date_chkbx.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.expire_date_chkbx.UseVisualStyleBackColor = true;
+            // 
+            // label8
+            // 
+            this.label8.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.label8.AutoSize = true;
+            this.label8.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.label8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label8.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.label8.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.ForeColor = System.Drawing.Color.White;
+            this.label8.Location = new System.Drawing.Point(1142, 54);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(91, 24);
+            this.label8.TabIndex = 17;
+            this.label8.Text = "سعر التجارى";
+            // 
+            // w_it_expir_date
+            // 
+            this.w_it_expir_date.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.w_it_expir_date.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.w_it_expir_date.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.w_it_expir_date.Location = new System.Drawing.Point(963, 89);
+            this.w_it_expir_date.Name = "w_it_expir_date";
+            this.w_it_expir_date.ShowUpDown = true;
+            this.w_it_expir_date.Size = new System.Drawing.Size(171, 32);
+            this.w_it_expir_date.TabIndex = 92;
+            this.w_it_expir_date.Value = new System.DateTime(2016, 10, 27, 0, 0, 0, 0);
+            // 
+            // wared_kemia_bx
+            // 
+            this.wared_kemia_bx.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.wared_kemia_bx.BackColor = System.Drawing.Color.LightGoldenrodYellow;
+            this.wared_kemia_bx.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.wared_kemia_bx.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.wared_kemia_bx.ForeColor = System.Drawing.SystemColors.MenuText;
+            this.wared_kemia_bx.Location = new System.Drawing.Point(374, 50);
+            this.wared_kemia_bx.MaxLength = 10;
+            this.wared_kemia_bx.Name = "wared_kemia_bx";
+            this.wared_kemia_bx.Size = new System.Drawing.Size(107, 33);
+            this.wared_kemia_bx.TabIndex = 49;
+            this.wared_kemia_bx.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.wared_kemia_bx.TextChanged += new System.EventHandler(this.wared_kemia_bx_TextChanged);
+            this.wared_kemia_bx.KeyDown += new System.Windows.Forms.KeyEventHandler(this.wared_kemia_bx_KeyDown_1);
+            this.wared_kemia_bx.ImeModeChanged += new System.EventHandler(this.wared_kemia_bx_ImeModeChanged);
+            // 
+            // label6
+            // 
+            this.label6.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.label6.AutoSize = true;
+            this.label6.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.label6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label6.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.label6.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.ForeColor = System.Drawing.Color.White;
+            this.label6.Location = new System.Drawing.Point(487, 54);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(48, 24);
+            this.label6.TabIndex = 19;
+            this.label6.Text = "الكميه";
+            // 
             // add_item_btn
             // 
             this.add_item_btn.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton;
@@ -615,6 +747,21 @@
             this.add_item_btn.TabIndex = 69;
             this.add_item_btn.Tooltip = "اضافة صنف";
             this.add_item_btn.Click += new System.EventHandler(this.add_item_btn_Click);
+            // 
+            // wared_total_sanf_pric_bx
+            // 
+            this.wared_total_sanf_pric_bx.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.wared_total_sanf_pric_bx.BackColor = System.Drawing.Color.LightGoldenrodYellow;
+            this.wared_total_sanf_pric_bx.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.wared_total_sanf_pric_bx.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.wared_total_sanf_pric_bx.ForeColor = System.Drawing.SystemColors.MenuText;
+            this.wared_total_sanf_pric_bx.Location = new System.Drawing.Point(186, 50);
+            this.wared_total_sanf_pric_bx.Name = "wared_total_sanf_pric_bx";
+            this.wared_total_sanf_pric_bx.ReadOnly = true;
+            this.wared_total_sanf_pric_bx.Size = new System.Drawing.Size(82, 33);
+            this.wared_total_sanf_pric_bx.TabIndex = 60;
+            this.wared_total_sanf_pric_bx.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.wared_total_sanf_pric_bx.KeyDown += new System.Windows.Forms.KeyEventHandler(this.wared_total_sanf_pric_bx_KeyDown);
             // 
             // w_sanf_q_code_bx
             // 
@@ -633,6 +780,21 @@
             this.w_sanf_q_code_bx.KeyDown += new System.Windows.Forms.KeyEventHandler(this.w_sanf_q_code_bx_KeyDown);
             this.w_sanf_q_code_bx.MouseMove += new System.Windows.Forms.MouseEventHandler(this.w_sanf_q_code_bx_MouseMove);
             // 
+            // label7
+            // 
+            this.label7.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.label7.AutoSize = true;
+            this.label7.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.label7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label7.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.label7.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.ForeColor = System.Drawing.Color.White;
+            this.label7.Location = new System.Drawing.Point(273, 54);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(93, 24);
+            this.label7.TabIndex = 21;
+            this.label7.Text = "اجمالى السعر";
+            // 
             // label18
             // 
             this.label18.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
@@ -647,6 +809,23 @@
             this.label18.Size = new System.Drawing.Size(82, 24);
             this.label18.TabIndex = 68;
             this.label18.Text = "ادخال الكود";
+            // 
+            // wared_new_sanf_btn
+            // 
+            this.wared_new_sanf_btn.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton;
+            this.wared_new_sanf_btn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.wared_new_sanf_btn.BackColor = System.Drawing.Color.Transparent;
+            this.wared_new_sanf_btn.ColorTable = DevComponents.DotNetBar.eButtonColor.Flat;
+            this.wared_new_sanf_btn.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.wared_new_sanf_btn.Image = ((System.Drawing.Image)(resources.GetObject("wared_new_sanf_btn.Image")));
+            this.wared_new_sanf_btn.ImageFixedSize = new System.Drawing.Size(74, 41);
+            this.wared_new_sanf_btn.Location = new System.Drawing.Point(727, 89);
+            this.wared_new_sanf_btn.Name = "wared_new_sanf_btn";
+            this.wared_new_sanf_btn.Shape = new DevComponents.DotNetBar.EllipticalShapeDescriptor();
+            this.wared_new_sanf_btn.Size = new System.Drawing.Size(93, 48);
+            this.wared_new_sanf_btn.TabIndex = 22;
+            this.wared_new_sanf_btn.Tooltip = "اضافة صنف جديد للفاتورة";
+            this.wared_new_sanf_btn.Click += new System.EventHandler(this.wared_new_sanf_btn_Click);
             // 
             // warn_lim_num
             // 
@@ -665,6 +844,23 @@
             0});
             this.warn_lim_num.KeyDown += new System.Windows.Forms.KeyEventHandler(this.warn_lim_num_KeyDown);
             // 
+            // wared_up_sanf_btn
+            // 
+            this.wared_up_sanf_btn.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton;
+            this.wared_up_sanf_btn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.wared_up_sanf_btn.BackColor = System.Drawing.Color.Transparent;
+            this.wared_up_sanf_btn.ColorTable = DevComponents.DotNetBar.eButtonColor.Flat;
+            this.wared_up_sanf_btn.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.wared_up_sanf_btn.Image = ((System.Drawing.Image)(resources.GetObject("wared_up_sanf_btn.Image")));
+            this.wared_up_sanf_btn.ImageFixedSize = new System.Drawing.Size(74, 41);
+            this.wared_up_sanf_btn.Location = new System.Drawing.Point(617, 89);
+            this.wared_up_sanf_btn.Name = "wared_up_sanf_btn";
+            this.wared_up_sanf_btn.Shape = new DevComponents.DotNetBar.EllipticalShapeDescriptor();
+            this.wared_up_sanf_btn.Size = new System.Drawing.Size(93, 48);
+            this.wared_up_sanf_btn.TabIndex = 23;
+            this.wared_up_sanf_btn.Tooltip = "تعديل صنف بالفاتورة بعد تحديده";
+            this.wared_up_sanf_btn.Click += new System.EventHandler(this.wared_up_sanf_btn_Click);
+            // 
             // label17
             // 
             this.label17.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
@@ -679,6 +875,187 @@
             this.label17.Size = new System.Drawing.Size(93, 24);
             this.label17.TabIndex = 47;
             this.label17.Text = "حدود التحذير";
+            // 
+            // wared_del_sanf_btn
+            // 
+            this.wared_del_sanf_btn.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton;
+            this.wared_del_sanf_btn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.wared_del_sanf_btn.BackColor = System.Drawing.Color.Transparent;
+            this.wared_del_sanf_btn.ColorTable = DevComponents.DotNetBar.eButtonColor.Flat;
+            this.wared_del_sanf_btn.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.wared_del_sanf_btn.Image = ((System.Drawing.Image)(resources.GetObject("wared_del_sanf_btn.Image")));
+            this.wared_del_sanf_btn.ImageFixedSize = new System.Drawing.Size(74, 41);
+            this.wared_del_sanf_btn.Location = new System.Drawing.Point(507, 89);
+            this.wared_del_sanf_btn.Name = "wared_del_sanf_btn";
+            this.wared_del_sanf_btn.Shape = new DevComponents.DotNetBar.EllipticalShapeDescriptor();
+            this.wared_del_sanf_btn.Size = new System.Drawing.Size(93, 48);
+            this.wared_del_sanf_btn.TabIndex = 24;
+            this.wared_del_sanf_btn.Tooltip = "حذف صنف من الفاتورة";
+            this.wared_del_sanf_btn.Click += new System.EventHandler(this.wared_del_sanf_btn_Click);
+            // 
+            // wared_last_ag_pric_bx
+            // 
+            this.wared_last_ag_pric_bx.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.wared_last_ag_pric_bx.BackColor = System.Drawing.Color.LightGoldenrodYellow;
+            this.wared_last_ag_pric_bx.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.wared_last_ag_pric_bx.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.wared_last_ag_pric_bx.ForeColor = System.Drawing.SystemColors.MenuText;
+            this.wared_last_ag_pric_bx.Location = new System.Drawing.Point(838, 50);
+            this.wared_last_ag_pric_bx.MaxLength = 10;
+            this.wared_last_ag_pric_bx.Name = "wared_last_ag_pric_bx";
+            this.wared_last_ag_pric_bx.Size = new System.Drawing.Size(98, 33);
+            this.wared_last_ag_pric_bx.TabIndex = 48;
+            this.wared_last_ag_pric_bx.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.wared_last_ag_pric_bx.TextChanged += new System.EventHandler(this.wared_last_ag_pric_bx_TextChanged);
+            this.wared_last_ag_pric_bx.KeyDown += new System.Windows.Forms.KeyEventHandler(this.wared_last_ag_pric_bx_KeyDown_1);
+            // 
+            // label5
+            // 
+            this.label5.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.label5.AutoSize = true;
+            this.label5.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.label5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label5.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.label5.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.ForeColor = System.Drawing.Color.White;
+            this.label5.Location = new System.Drawing.Point(697, 11);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(84, 24);
+            this.label5.TabIndex = 44;
+            this.label5.Text = "قسم الصنف";
+            // 
+            // label13
+            // 
+            this.label13.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.label13.AutoSize = true;
+            this.label13.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.label13.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label13.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.label13.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label13.ForeColor = System.Drawing.Color.White;
+            this.label13.Location = new System.Drawing.Point(938, 54);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(82, 24);
+            this.label13.TabIndex = 34;
+            this.label13.Text = "سعر الجملة";
+            // 
+            // wared_tasn_nam_cmbx
+            // 
+            this.wared_tasn_nam_cmbx.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.wared_tasn_nam_cmbx.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
+            this.wared_tasn_nam_cmbx.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
+            this.wared_tasn_nam_cmbx.DisplayMember = "Text";
+            this.wared_tasn_nam_cmbx.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
+            this.wared_tasn_nam_cmbx.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.wared_tasn_nam_cmbx.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.wared_tasn_nam_cmbx.FormattingEnabled = true;
+            this.wared_tasn_nam_cmbx.ItemHeight = 20;
+            this.wared_tasn_nam_cmbx.Location = new System.Drawing.Point(510, 10);
+            this.wared_tasn_nam_cmbx.Name = "wared_tasn_nam_cmbx";
+            this.wared_tasn_nam_cmbx.Size = new System.Drawing.Size(179, 26);
+            this.wared_tasn_nam_cmbx.TabIndex = 45;
+            this.wared_tasn_nam_cmbx.SelectedIndexChanged += new System.EventHandler(this.wared_tasn_nam_cmbx_SelectedIndexChanged);
+            this.wared_tasn_nam_cmbx.DropDownClosed += new System.EventHandler(this.wared_tasn_nam_cmbx_DropDownClosed);
+            this.wared_tasn_nam_cmbx.KeyDown += new System.Windows.Forms.KeyEventHandler(this.wared_tasn_nam_cmbx_KeyDown);
+            // 
+            // wared_cleint_pric_bx
+            // 
+            this.wared_cleint_pric_bx.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.wared_cleint_pric_bx.BackColor = System.Drawing.Color.LightGoldenrodYellow;
+            this.wared_cleint_pric_bx.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.wared_cleint_pric_bx.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.wared_cleint_pric_bx.ForeColor = System.Drawing.SystemColors.MenuText;
+            this.wared_cleint_pric_bx.Location = new System.Drawing.Point(541, 50);
+            this.wared_cleint_pric_bx.MaxLength = 10;
+            this.wared_cleint_pric_bx.Name = "wared_cleint_pric_bx";
+            this.wared_cleint_pric_bx.Size = new System.Drawing.Size(149, 33);
+            this.wared_cleint_pric_bx.TabIndex = 49;
+            this.wared_cleint_pric_bx.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.wared_cleint_pric_bx.TextChanged += new System.EventHandler(this.wared_cleint_pric_bx_TextChanged);
+            this.wared_cleint_pric_bx.KeyDown += new System.Windows.Forms.KeyEventHandler(this.wared_cleint_pric_bx_KeyDown_1);
+            // 
+            // label14
+            // 
+            this.label14.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.label14.AutoSize = true;
+            this.label14.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.label14.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label14.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.label14.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label14.ForeColor = System.Drawing.Color.White;
+            this.label14.Location = new System.Drawing.Point(697, 54);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(100, 24);
+            this.label14.TabIndex = 36;
+            this.label14.Text = "سعر المستهلك";
+            // 
+            // wared_sanf_nam_cmbx
+            // 
+            this.wared_sanf_nam_cmbx.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.wared_sanf_nam_cmbx.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
+            this.wared_sanf_nam_cmbx.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
+            this.wared_sanf_nam_cmbx.DisplayMember = "Text";
+            this.wared_sanf_nam_cmbx.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
+            this.wared_sanf_nam_cmbx.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.wared_sanf_nam_cmbx.FormattingEnabled = true;
+            this.wared_sanf_nam_cmbx.ItemHeight = 20;
+            this.wared_sanf_nam_cmbx.Location = new System.Drawing.Point(186, 10);
+            this.wared_sanf_nam_cmbx.Name = "wared_sanf_nam_cmbx";
+            this.wared_sanf_nam_cmbx.Size = new System.Drawing.Size(235, 26);
+            this.wared_sanf_nam_cmbx.TabIndex = 46;
+            this.wared_sanf_nam_cmbx.SelectedIndexChanged += new System.EventHandler(this.wared_sanf_nam_cmbx_SelectedIndexChanged);
+            this.wared_sanf_nam_cmbx.DropDownClosed += new System.EventHandler(this.wared_sanf_nam_cmbx_DropDownClosed);
+            this.wared_sanf_nam_cmbx.KeyDown += new System.Windows.Forms.KeyEventHandler(this.wared_sanf_nam_cmbx_KeyDown);
+            // 
+            // label3
+            // 
+            this.label3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.label3.AutoSize = true;
+            this.label3.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.label3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label3.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.label3.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.ForeColor = System.Drawing.Color.White;
+            this.label3.Location = new System.Drawing.Point(938, 11);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(77, 24);
+            this.label3.TabIndex = 39;
+            this.label3.Text = "كودالصنف";
+            // 
+            // wared_sanf_code_bx
+            // 
+            this.wared_sanf_code_bx.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.wared_sanf_code_bx.BackColor = System.Drawing.Color.LightGoldenrodYellow;
+            this.wared_sanf_code_bx.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.wared_sanf_code_bx.Font = new System.Drawing.Font("Tahoma", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.wared_sanf_code_bx.ForeColor = System.Drawing.SystemColors.MenuText;
+            this.wared_sanf_code_bx.Location = new System.Drawing.Point(838, 5);
+            this.wared_sanf_code_bx.MaxLength = 13;
+            this.wared_sanf_code_bx.Name = "wared_sanf_code_bx";
+            this.wared_sanf_code_bx.ReadOnly = true;
+            this.wared_sanf_code_bx.Size = new System.Drawing.Size(98, 36);
+            this.wared_sanf_code_bx.TabIndex = 66;
+            this.wared_sanf_code_bx.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.wared_sanf_code_bx.TextChanged += new System.EventHandler(this.wared_sanf_code_bx_TextChanged);
+            this.wared_sanf_code_bx.KeyDown += new System.Windows.Forms.KeyEventHandler(this.wared_sanf_code_bx_KeyDown);
+            this.wared_sanf_code_bx.MouseMove += new System.Windows.Forms.MouseEventHandler(this.wared_sanf_code_bx_MouseMove);
+            // 
+            // exit_btn
+            // 
+            this.exit_btn.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton;
+            this.exit_btn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.exit_btn.BackColor = System.Drawing.Color.LightBlue;
+            this.exit_btn.ColorTable = DevComponents.DotNetBar.eButtonColor.OrangeWithBackground;
+            this.exit_btn.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.exit_btn.Image = ((System.Drawing.Image)(resources.GetObject("exit_btn.Image")));
+            this.exit_btn.ImageFixedSize = new System.Drawing.Size(50, 50);
+            this.exit_btn.Location = new System.Drawing.Point(0, 563);
+            this.exit_btn.Name = "exit_btn";
+            this.exit_btn.Shape = new DevComponents.DotNetBar.RoundRectangleShapeDescriptor(10);
+            this.exit_btn.Size = new System.Drawing.Size(48, 47);
+            this.exit_btn.TabIndex = 94;
+            this.exit_btn.Tooltip = "خروج";
+            this.exit_btn.Click += new System.EventHandler(this.exit_btn_Click);
             // 
             // ref_num_exp
             // 
@@ -764,168 +1141,6 @@
             this.ref_num_bx.TabIndex = 19;
             this.ref_num_bx.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.ref_num_bx.TextChanged += new System.EventHandler(this.ref_num_bx_TextChanged);
-            // 
-            // label5
-            // 
-            this.label5.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.label5.AutoSize = true;
-            this.label5.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.label5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label5.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.label5.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.ForeColor = System.Drawing.Color.White;
-            this.label5.Location = new System.Drawing.Point(697, 11);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(84, 24);
-            this.label5.TabIndex = 44;
-            this.label5.Text = "قسم الصنف";
-            // 
-            // wared_tasn_nam_cmbx
-            // 
-            this.wared_tasn_nam_cmbx.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.wared_tasn_nam_cmbx.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
-            this.wared_tasn_nam_cmbx.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
-            this.wared_tasn_nam_cmbx.DisplayMember = "Text";
-            this.wared_tasn_nam_cmbx.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
-            this.wared_tasn_nam_cmbx.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.wared_tasn_nam_cmbx.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.wared_tasn_nam_cmbx.FormattingEnabled = true;
-            this.wared_tasn_nam_cmbx.ItemHeight = 20;
-            this.wared_tasn_nam_cmbx.Location = new System.Drawing.Point(510, 10);
-            this.wared_tasn_nam_cmbx.Name = "wared_tasn_nam_cmbx";
-            this.wared_tasn_nam_cmbx.Size = new System.Drawing.Size(179, 26);
-            this.wared_tasn_nam_cmbx.TabIndex = 45;
-            this.wared_tasn_nam_cmbx.SelectedIndexChanged += new System.EventHandler(this.wared_tasn_nam_cmbx_SelectedIndexChanged);
-            this.wared_tasn_nam_cmbx.DropDownClosed += new System.EventHandler(this.wared_tasn_nam_cmbx_DropDownClosed);
-            this.wared_tasn_nam_cmbx.KeyDown += new System.Windows.Forms.KeyEventHandler(this.wared_tasn_nam_cmbx_KeyDown);
-            // 
-            // label15
-            // 
-            this.label15.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.label15.AutoSize = true;
-            this.label15.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.label15.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label15.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.label15.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label15.ForeColor = System.Drawing.Color.White;
-            this.label15.Location = new System.Drawing.Point(423, 11);
-            this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(82, 24);
-            this.label15.TabIndex = 42;
-            this.label15.Text = "اسم الصنف";
-            // 
-            // wared_sanf_nam_cmbx
-            // 
-            this.wared_sanf_nam_cmbx.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.wared_sanf_nam_cmbx.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
-            this.wared_sanf_nam_cmbx.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
-            this.wared_sanf_nam_cmbx.DisplayMember = "Text";
-            this.wared_sanf_nam_cmbx.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
-            this.wared_sanf_nam_cmbx.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.wared_sanf_nam_cmbx.FormattingEnabled = true;
-            this.wared_sanf_nam_cmbx.ItemHeight = 20;
-            this.wared_sanf_nam_cmbx.Location = new System.Drawing.Point(186, 10);
-            this.wared_sanf_nam_cmbx.Name = "wared_sanf_nam_cmbx";
-            this.wared_sanf_nam_cmbx.Size = new System.Drawing.Size(235, 26);
-            this.wared_sanf_nam_cmbx.TabIndex = 46;
-            this.wared_sanf_nam_cmbx.SelectedIndexChanged += new System.EventHandler(this.wared_sanf_nam_cmbx_SelectedIndexChanged);
-            this.wared_sanf_nam_cmbx.DropDownClosed += new System.EventHandler(this.wared_sanf_nam_cmbx_DropDownClosed);
-            this.wared_sanf_nam_cmbx.KeyDown += new System.Windows.Forms.KeyEventHandler(this.wared_sanf_nam_cmbx_KeyDown);
-            // 
-            // wared_sanf_code_bx
-            // 
-            this.wared_sanf_code_bx.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.wared_sanf_code_bx.BackColor = System.Drawing.Color.LightGoldenrodYellow;
-            this.wared_sanf_code_bx.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.wared_sanf_code_bx.Font = new System.Drawing.Font("Tahoma", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.wared_sanf_code_bx.ForeColor = System.Drawing.SystemColors.MenuText;
-            this.wared_sanf_code_bx.Location = new System.Drawing.Point(838, 5);
-            this.wared_sanf_code_bx.MaxLength = 13;
-            this.wared_sanf_code_bx.Name = "wared_sanf_code_bx";
-            this.wared_sanf_code_bx.ReadOnly = true;
-            this.wared_sanf_code_bx.Size = new System.Drawing.Size(98, 36);
-            this.wared_sanf_code_bx.TabIndex = 66;
-            this.wared_sanf_code_bx.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.wared_sanf_code_bx.TextChanged += new System.EventHandler(this.wared_sanf_code_bx_TextChanged);
-            this.wared_sanf_code_bx.KeyDown += new System.Windows.Forms.KeyEventHandler(this.wared_sanf_code_bx_KeyDown);
-            this.wared_sanf_code_bx.MouseMove += new System.Windows.Forms.MouseEventHandler(this.wared_sanf_code_bx_MouseMove);
-            // 
-            // label3
-            // 
-            this.label3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.label3.AutoSize = true;
-            this.label3.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.label3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label3.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.label3.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(938, 11);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(77, 24);
-            this.label3.TabIndex = 39;
-            this.label3.Text = "كودالصنف";
-            // 
-            // label14
-            // 
-            this.label14.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.label14.AutoSize = true;
-            this.label14.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.label14.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label14.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.label14.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label14.ForeColor = System.Drawing.Color.White;
-            this.label14.Location = new System.Drawing.Point(697, 54);
-            this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(100, 24);
-            this.label14.TabIndex = 36;
-            this.label14.Text = "سعر المستهلك";
-            // 
-            // wared_cleint_pric_bx
-            // 
-            this.wared_cleint_pric_bx.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.wared_cleint_pric_bx.BackColor = System.Drawing.Color.LightGoldenrodYellow;
-            this.wared_cleint_pric_bx.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.wared_cleint_pric_bx.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.wared_cleint_pric_bx.ForeColor = System.Drawing.SystemColors.MenuText;
-            this.wared_cleint_pric_bx.Location = new System.Drawing.Point(541, 50);
-            this.wared_cleint_pric_bx.MaxLength = 10;
-            this.wared_cleint_pric_bx.Name = "wared_cleint_pric_bx";
-            this.wared_cleint_pric_bx.Size = new System.Drawing.Size(149, 33);
-            this.wared_cleint_pric_bx.TabIndex = 49;
-            this.wared_cleint_pric_bx.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.wared_cleint_pric_bx.TextChanged += new System.EventHandler(this.wared_cleint_pric_bx_TextChanged);
-            this.wared_cleint_pric_bx.KeyDown += new System.Windows.Forms.KeyEventHandler(this.wared_cleint_pric_bx_KeyDown_1);
-            // 
-            // label13
-            // 
-            this.label13.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.label13.AutoSize = true;
-            this.label13.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.label13.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label13.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.label13.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label13.ForeColor = System.Drawing.Color.White;
-            this.label13.Location = new System.Drawing.Point(938, 54);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(82, 24);
-            this.label13.TabIndex = 34;
-            this.label13.Text = "سعر الجملة";
-            // 
-            // wared_last_ag_pric_bx
-            // 
-            this.wared_last_ag_pric_bx.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.wared_last_ag_pric_bx.BackColor = System.Drawing.Color.LightGoldenrodYellow;
-            this.wared_last_ag_pric_bx.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.wared_last_ag_pric_bx.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.wared_last_ag_pric_bx.ForeColor = System.Drawing.SystemColors.MenuText;
-            this.wared_last_ag_pric_bx.Location = new System.Drawing.Point(838, 50);
-            this.wared_last_ag_pric_bx.MaxLength = 10;
-            this.wared_last_ag_pric_bx.Name = "wared_last_ag_pric_bx";
-            this.wared_last_ag_pric_bx.Size = new System.Drawing.Size(98, 33);
-            this.wared_last_ag_pric_bx.TabIndex = 48;
-            this.wared_last_ag_pric_bx.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.wared_last_ag_pric_bx.TextChanged += new System.EventHandler(this.wared_last_ag_pric_bx_TextChanged);
-            this.wared_last_ag_pric_bx.KeyDown += new System.Windows.Forms.KeyEventHandler(this.wared_last_ag_pric_bx_KeyDown_1);
             // 
             // label10
             // 
@@ -1026,28 +1241,28 @@
             this.Column6,
             this.Column9,
             this.Column10});
-            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle4.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.wared_grid.DefaultCellStyle = dataGridViewCellStyle4;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.wared_grid.DefaultCellStyle = dataGridViewCellStyle2;
             this.wared_grid.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(215)))), ((int)(((byte)(229)))));
             this.wared_grid.Location = new System.Drawing.Point(175, 149);
             this.wared_grid.Name = "wared_grid";
             this.wared_grid.ReadOnly = true;
             this.wared_grid.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.wared_grid.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Sunken;
-            dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle5.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle5.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle5.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle5.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.wared_grid.RowHeadersDefaultCellStyle = dataGridViewCellStyle5;
+            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle3.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.wared_grid.RowHeadersDefaultCellStyle = dataGridViewCellStyle3;
             this.wared_grid.Size = new System.Drawing.Size(1106, 396);
             this.wared_grid.TabIndex = 25;
             this.wared_grid.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.wared_grid_CellClick);
@@ -1121,224 +1336,27 @@
             this.Column10.Name = "Column10";
             this.Column10.ReadOnly = true;
             // 
-            // wared_del_sanf_btn
-            // 
-            this.wared_del_sanf_btn.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton;
-            this.wared_del_sanf_btn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.wared_del_sanf_btn.BackColor = System.Drawing.Color.Transparent;
-            this.wared_del_sanf_btn.ColorTable = DevComponents.DotNetBar.eButtonColor.Flat;
-            this.wared_del_sanf_btn.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.wared_del_sanf_btn.Image = ((System.Drawing.Image)(resources.GetObject("wared_del_sanf_btn.Image")));
-            this.wared_del_sanf_btn.ImageFixedSize = new System.Drawing.Size(74, 41);
-            this.wared_del_sanf_btn.Location = new System.Drawing.Point(507, 89);
-            this.wared_del_sanf_btn.Name = "wared_del_sanf_btn";
-            this.wared_del_sanf_btn.Shape = new DevComponents.DotNetBar.EllipticalShapeDescriptor();
-            this.wared_del_sanf_btn.Size = new System.Drawing.Size(93, 48);
-            this.wared_del_sanf_btn.TabIndex = 24;
-            this.wared_del_sanf_btn.Tooltip = "حذف صنف من الفاتورة";
-            this.wared_del_sanf_btn.Click += new System.EventHandler(this.wared_del_sanf_btn_Click);
-            // 
-            // wared_up_sanf_btn
-            // 
-            this.wared_up_sanf_btn.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton;
-            this.wared_up_sanf_btn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.wared_up_sanf_btn.BackColor = System.Drawing.Color.Transparent;
-            this.wared_up_sanf_btn.ColorTable = DevComponents.DotNetBar.eButtonColor.Flat;
-            this.wared_up_sanf_btn.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.wared_up_sanf_btn.Image = ((System.Drawing.Image)(resources.GetObject("wared_up_sanf_btn.Image")));
-            this.wared_up_sanf_btn.ImageFixedSize = new System.Drawing.Size(74, 41);
-            this.wared_up_sanf_btn.Location = new System.Drawing.Point(617, 89);
-            this.wared_up_sanf_btn.Name = "wared_up_sanf_btn";
-            this.wared_up_sanf_btn.Shape = new DevComponents.DotNetBar.EllipticalShapeDescriptor();
-            this.wared_up_sanf_btn.Size = new System.Drawing.Size(93, 48);
-            this.wared_up_sanf_btn.TabIndex = 23;
-            this.wared_up_sanf_btn.Tooltip = "تعديل صنف بالفاتورة بعد تحديده";
-            this.wared_up_sanf_btn.Click += new System.EventHandler(this.wared_up_sanf_btn_Click);
-            // 
-            // wared_new_sanf_btn
-            // 
-            this.wared_new_sanf_btn.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton;
-            this.wared_new_sanf_btn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.wared_new_sanf_btn.BackColor = System.Drawing.Color.Transparent;
-            this.wared_new_sanf_btn.ColorTable = DevComponents.DotNetBar.eButtonColor.Flat;
-            this.wared_new_sanf_btn.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.wared_new_sanf_btn.Image = ((System.Drawing.Image)(resources.GetObject("wared_new_sanf_btn.Image")));
-            this.wared_new_sanf_btn.ImageFixedSize = new System.Drawing.Size(74, 41);
-            this.wared_new_sanf_btn.Location = new System.Drawing.Point(727, 89);
-            this.wared_new_sanf_btn.Name = "wared_new_sanf_btn";
-            this.wared_new_sanf_btn.Shape = new DevComponents.DotNetBar.EllipticalShapeDescriptor();
-            this.wared_new_sanf_btn.Size = new System.Drawing.Size(93, 48);
-            this.wared_new_sanf_btn.TabIndex = 22;
-            this.wared_new_sanf_btn.Tooltip = "اضافة صنف جديد للفاتورة";
-            this.wared_new_sanf_btn.Click += new System.EventHandler(this.wared_new_sanf_btn_Click);
-            // 
-            // label7
-            // 
-            this.label7.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.label7.AutoSize = true;
-            this.label7.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.label7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label7.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.label7.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.ForeColor = System.Drawing.Color.White;
-            this.label7.Location = new System.Drawing.Point(273, 54);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(93, 24);
-            this.label7.TabIndex = 21;
-            this.label7.Text = "اجمالى السعر";
-            // 
-            // wared_total_sanf_pric_bx
-            // 
-            this.wared_total_sanf_pric_bx.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.wared_total_sanf_pric_bx.BackColor = System.Drawing.Color.LightGoldenrodYellow;
-            this.wared_total_sanf_pric_bx.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.wared_total_sanf_pric_bx.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.wared_total_sanf_pric_bx.ForeColor = System.Drawing.SystemColors.MenuText;
-            this.wared_total_sanf_pric_bx.Location = new System.Drawing.Point(186, 50);
-            this.wared_total_sanf_pric_bx.Name = "wared_total_sanf_pric_bx";
-            this.wared_total_sanf_pric_bx.ReadOnly = true;
-            this.wared_total_sanf_pric_bx.Size = new System.Drawing.Size(82, 33);
-            this.wared_total_sanf_pric_bx.TabIndex = 60;
-            this.wared_total_sanf_pric_bx.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.wared_total_sanf_pric_bx.KeyDown += new System.Windows.Forms.KeyEventHandler(this.wared_total_sanf_pric_bx_KeyDown);
-            // 
-            // label6
-            // 
-            this.label6.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.label6.AutoSize = true;
-            this.label6.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.label6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label6.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.label6.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.ForeColor = System.Drawing.Color.White;
-            this.label6.Location = new System.Drawing.Point(487, 54);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(48, 24);
-            this.label6.TabIndex = 19;
-            this.label6.Text = "الكميه";
-            // 
-            // wared_kemia_bx
-            // 
-            this.wared_kemia_bx.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.wared_kemia_bx.BackColor = System.Drawing.Color.LightGoldenrodYellow;
-            this.wared_kemia_bx.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.wared_kemia_bx.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.wared_kemia_bx.ForeColor = System.Drawing.SystemColors.MenuText;
-            this.wared_kemia_bx.Location = new System.Drawing.Point(374, 50);
-            this.wared_kemia_bx.MaxLength = 10;
-            this.wared_kemia_bx.Name = "wared_kemia_bx";
-            this.wared_kemia_bx.Size = new System.Drawing.Size(107, 33);
-            this.wared_kemia_bx.TabIndex = 49;
-            this.wared_kemia_bx.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.wared_kemia_bx.TextChanged += new System.EventHandler(this.wared_kemia_bx_TextChanged);
-            this.wared_kemia_bx.KeyDown += new System.Windows.Forms.KeyEventHandler(this.wared_kemia_bx_KeyDown_1);
-            this.wared_kemia_bx.ImeModeChanged += new System.EventHandler(this.wared_kemia_bx_ImeModeChanged);
-            // 
-            // label8
-            // 
-            this.label8.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.label8.AutoSize = true;
-            this.label8.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.label8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label8.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.label8.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.ForeColor = System.Drawing.Color.White;
-            this.label8.Location = new System.Drawing.Point(1142, 54);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(91, 24);
-            this.label8.TabIndex = 17;
-            this.label8.Text = "سعر التجارى";
-            // 
-            // wared_purch_pric_bx
-            // 
-            this.wared_purch_pric_bx.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.wared_purch_pric_bx.BackColor = System.Drawing.Color.LightGoldenrodYellow;
-            this.wared_purch_pric_bx.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.wared_purch_pric_bx.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.wared_purch_pric_bx.ForeColor = System.Drawing.SystemColors.MenuText;
-            this.wared_purch_pric_bx.Location = new System.Drawing.Point(1025, 50);
-            this.wared_purch_pric_bx.MaxLength = 10;
-            this.wared_purch_pric_bx.Name = "wared_purch_pric_bx";
-            this.wared_purch_pric_bx.Size = new System.Drawing.Size(112, 33);
-            this.wared_purch_pric_bx.TabIndex = 47;
-            this.wared_purch_pric_bx.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.wared_purch_pric_bx.TextChanged += new System.EventHandler(this.wared_purch_pric_bx_TextChanged);
-            this.wared_purch_pric_bx.KeyDown += new System.Windows.Forms.KeyEventHandler(this.wared_purch_pric_bx_KeyDown_1);
-            // 
             // buttonItem1
             // 
             this.buttonItem1.ImagePaddingHorizontal = 8;
             this.buttonItem1.Name = "buttonItem1";
             this.buttonItem1.Text = "New Item";
             // 
-            // groupPanel4
+            // buttonX1
             // 
-            this.groupPanel4.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.groupPanel4.CanvasColor = System.Drawing.SystemColors.Control;
-            this.groupPanel4.ColorSchemeStyle = DevComponents.DotNetBar.eDotNetBarStyle.Office2007;
-            this.groupPanel4.Controls.Add(this.label15);
-            this.groupPanel4.Controls.Add(this.wared_purch_pric_bx);
-            this.groupPanel4.Controls.Add(this.expire_date_chkbx);
-            this.groupPanel4.Controls.Add(this.label8);
-            this.groupPanel4.Controls.Add(this.w_it_expir_date);
-            this.groupPanel4.Controls.Add(this.wared_kemia_bx);
-            this.groupPanel4.Controls.Add(this.label6);
-            this.groupPanel4.Controls.Add(this.add_item_btn);
-            this.groupPanel4.Controls.Add(this.wared_total_sanf_pric_bx);
-            this.groupPanel4.Controls.Add(this.w_sanf_q_code_bx);
-            this.groupPanel4.Controls.Add(this.label7);
-            this.groupPanel4.Controls.Add(this.label18);
-            this.groupPanel4.Controls.Add(this.wared_new_sanf_btn);
-            this.groupPanel4.Controls.Add(this.warn_lim_num);
-            this.groupPanel4.Controls.Add(this.wared_up_sanf_btn);
-            this.groupPanel4.Controls.Add(this.label17);
-            this.groupPanel4.Controls.Add(this.wared_del_sanf_btn);
-            this.groupPanel4.Controls.Add(this.wared_last_ag_pric_bx);
-            this.groupPanel4.Controls.Add(this.label5);
-            this.groupPanel4.Controls.Add(this.label13);
-            this.groupPanel4.Controls.Add(this.wared_tasn_nam_cmbx);
-            this.groupPanel4.Controls.Add(this.wared_cleint_pric_bx);
-            this.groupPanel4.Controls.Add(this.label14);
-            this.groupPanel4.Controls.Add(this.wared_sanf_nam_cmbx);
-            this.groupPanel4.Controls.Add(this.label3);
-            this.groupPanel4.Controls.Add(this.wared_sanf_code_bx);
-            this.groupPanel4.Location = new System.Drawing.Point(32, 1);
-            this.groupPanel4.Name = "groupPanel4";
-            this.groupPanel4.Size = new System.Drawing.Size(1249, 143);
-            // 
-            // 
-            // 
-            this.groupPanel4.Style.BackColor2SchemePart = DevComponents.DotNetBar.eColorSchemePart.PanelBackground2;
-            this.groupPanel4.Style.BackColorGradientAngle = 90;
-            this.groupPanel4.Style.BackColorSchemePart = DevComponents.DotNetBar.eColorSchemePart.PanelBackground;
-            this.groupPanel4.Style.BorderBottom = DevComponents.DotNetBar.eStyleBorderType.Solid;
-            this.groupPanel4.Style.BorderBottomWidth = 1;
-            this.groupPanel4.Style.BorderColorSchemePart = DevComponents.DotNetBar.eColorSchemePart.PanelBorder;
-            this.groupPanel4.Style.BorderLeft = DevComponents.DotNetBar.eStyleBorderType.Solid;
-            this.groupPanel4.Style.BorderLeftWidth = 1;
-            this.groupPanel4.Style.BorderRight = DevComponents.DotNetBar.eStyleBorderType.Solid;
-            this.groupPanel4.Style.BorderRightWidth = 1;
-            this.groupPanel4.Style.BorderTop = DevComponents.DotNetBar.eStyleBorderType.Solid;
-            this.groupPanel4.Style.BorderTopWidth = 1;
-            this.groupPanel4.Style.CornerDiameter = 4;
-            this.groupPanel4.Style.CornerType = DevComponents.DotNetBar.eCornerType.Rounded;
-            this.groupPanel4.Style.TextAlignment = DevComponents.DotNetBar.eStyleTextAlignment.Center;
-            this.groupPanel4.Style.TextColorSchemePart = DevComponents.DotNetBar.eColorSchemePart.PanelText;
-            this.groupPanel4.Style.TextLineAlignment = DevComponents.DotNetBar.eStyleTextAlignment.Near;
-            this.groupPanel4.TabIndex = 95;
-            this.groupPanel4.Click += new System.EventHandler(this.groupPanel4_Click);
-            // 
-            // querBtn
-            // 
-            this.querBtn.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton;
-            this.querBtn.ColorTable = DevComponents.DotNetBar.eButtonColor.OrangeWithBackground;
-            this.querBtn.Location = new System.Drawing.Point(57, 165);
-            this.querBtn.Name = "querBtn";
-            this.querBtn.Size = new System.Drawing.Size(76, 32);
-            this.querBtn.TabIndex = 94;
-            this.querBtn.Text = "الاستعلام عن طلب مخزن";
-            this.querBtn.Click += new System.EventHandler(this.querBtn_Click);
+            this.buttonX1.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton;
+            this.buttonX1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.buttonX1.BackColor = System.Drawing.Color.Transparent;
+            this.buttonX1.ColorTable = DevComponents.DotNetBar.eButtonColor.Flat;
+            this.buttonX1.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonX1.Image = ((System.Drawing.Image)(resources.GetObject("buttonX1.Image")));
+            this.buttonX1.ImageFixedSize = new System.Drawing.Size(74, 41);
+            this.buttonX1.Location = new System.Drawing.Point(269, 86);
+            this.buttonX1.Name = "buttonX1";
+            this.buttonX1.Shape = new DevComponents.DotNetBar.EllipticalShapeDescriptor();
+            this.buttonX1.Size = new System.Drawing.Size(93, 48);
+            this.buttonX1.TabIndex = 94;
+            this.buttonX1.Tooltip = "حذف صنف من الفاتورة";
             // 
             // wared_screen_form
             // 
@@ -1367,12 +1385,12 @@
             this.groupPanel3.ResumeLayout(false);
             this.groupPanel3.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.w_quer_grid)).EndInit();
+            this.groupPanel4.ResumeLayout(false);
+            this.groupPanel4.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.warn_lim_num)).EndInit();
             this.ref_num_exp.ResumeLayout(false);
             this.ref_num_exp.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.wared_grid)).EndInit();
-            this.groupPanel4.ResumeLayout(false);
-            this.groupPanel4.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -1454,5 +1472,6 @@
         private DevComponents.DotNetBar.ButtonX exit_btn;
         private DevComponents.DotNetBar.Controls.GroupPanel groupPanel4;
         private DevComponents.DotNetBar.ButtonX querBtn;
+        private DevComponents.DotNetBar.ButtonX buttonX1;
     }
 }

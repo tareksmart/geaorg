@@ -1361,3 +1361,49 @@ D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\جورج
 D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\geoGit\sales pro\bin\Debug\sales pro.exe.config
 D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\geoGit\sales pro\obj\x86\Debug\sales pro.exe
 D:\Projects\projects\جورج ماكياج\جورج\مخازن جورج\geoGit\sales pro\obj\x86\Debug\sales pro.pdb
+E:\D\pro\geaorg\sales pro\bin\Debug\sales pro.exe.config
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales pro.exe
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales pro.pdb
+E:\D\pro\geaorg\sales pro\bin\Debug\sales pro.exe
+E:\D\pro\geaorg\sales pro\bin\Debug\sales pro.pdb
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales pro.csprojResolveAssemblyReference.cache
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.addStoreForm.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.add_item.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.AgentBD.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.ag_acc_frm.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.barcode_frm.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.BasicData.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.basic_data.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.CategoryBD.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.company_us_co.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.Discount_agent.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.expire_warn.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.expir_query_frm.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.finish_exp_date_frm.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.ImpBIll.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.ItemBD.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.log_in_frm.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.morred_account_form.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.Print.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.PrintPrevsales.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.PrintSalesPriv.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.Query.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.query_stuck_bill_form.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.repoerts_form.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.report2_form.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.ReportScreen.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.reports_screen_form.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.SalesBill.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.sales_fat.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.SerialUC.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.spent_form.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.splash_screen.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.storeForm.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.StoreReqQuery.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.update_expire_date_form.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.user_privilage.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.wait_frm.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.wared_screen_form.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.Form1.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales_pro.Properties.Resources.resources
+E:\D\pro\geaorg\sales pro\obj\x86\Debug\sales pro.csproj.GenerateResource.Cache
